@@ -23,7 +23,7 @@
 ### 📘 Tecnologias que vou estudar...
 
  <div style= "display: inline_block">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodeJS" width="45" height="45"/> </a><img alt="Django" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="SQL" width="55" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodeJS" width="45" height="45"/> </a><img alt="Django" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="55" height="55"/>
  </div>
  
 ---
