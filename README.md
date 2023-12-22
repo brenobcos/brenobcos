@@ -1,7 +1,7 @@
   <h1>Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25px">, eu sou Breno Carlos</h1>
 
   <p>
-  - 👨‍💻 Engenheiro de Software na Liferay-LATAM - Recife-PE <p align="left"> <img src="https://komarev.com/ghpvc/?username=brenobcos&color=blue" alt="Profile views" /> </p>
+  - 👨‍💻 Engenheiro de Software - Recife-PE <p align="left"> <img src="https://komarev.com/ghpvc/?username=brenobcos&color=blue" alt="Profile views" /> </p>
   
   <br>
 
